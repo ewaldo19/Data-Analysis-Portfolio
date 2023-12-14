@@ -11,9 +11,10 @@ This repository is created with the purpose to display the projects that I have 
 ## Table of Contents
 
 * [About]()
-* [Portfolio Projects]()
+* [Portfolio Projects]
   
   *  Python
+      * [Computer Vision Conference Data Analysis](https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project)
   *  Excel
 
 
