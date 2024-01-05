@@ -9,10 +9,8 @@ CV: [Here]()
 This repository is created with the purpose to display the projects that I have created in the field of Data Analytics.
 
 ## Portfolio Projects
-  
-  *  Python
-      * [Computer Vision Conference Data Analysis](https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project)
-  *  Excel
+  * [Computer Vision Conferences](https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project)
+  * [Fantasy Premier League 22/23](https://github.com/ewaldo19/FPL-22-23-Data-Analysis)
 
 
 
