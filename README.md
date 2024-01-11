@@ -13,14 +13,3 @@ This repository is created with the purpose to display the projects that I have 
   <li><a href = "https://github.com/ewaldo19/Computer-Vision-Data-Analysis-Project">Computer Vision Conferences</a></li>
   <li><a href = "https://github.com/ewaldo19/FPL-22-23-Data-Analysis">Fantasy Premier League 22/23</a></body></li>
 </ul>
-
-<h2>Contact me</h2>
-<ul>
-  <li><a href = "https://www.instagram.com/ewaldosamuel19">Instagram</a></li>
-  <li><a href = "https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7BhuQnsLT1Cm562XOO4U3A%3D%3D">Linkedin</li>
-  <li>ewaldosamuel19@gmail.com</li>
-  <li>+62-838-0678-3668</li>
-</ul>
-
-
-
