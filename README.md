@@ -4,7 +4,7 @@
 
 <p align = "justify">During my studies , I chose Applied Database as my selective course to improve my skills in the field of data. It was really a valuable lesson to learn that SQL has so many uses to analyze raw and complex data, used various Python libraries to web scrape, I also learned how to store the web scraped data in a relational database, and I also explored various tools to visualize the data that I have gathered such as using Tableau, Metabase, Python, and Microsoft Excel. My favourite tool is Python, which I usually use Plotly to visualize the data because I believe it is the most interactive and has such a wide range of usage. I am sure that the skills I have studied will be very useful for my role as a Data Analyst.</p>
 
-CV: [Here]()
+CV: [Here](https://drive.google.com/file/d/1eM2OhqwpJIXGGaupHVwzaH4JF8yf8NBL/view?usp=drive_link)
 
 This repository is created with the purpose to display the projects that I have created in the field of Data Analytics.
 
